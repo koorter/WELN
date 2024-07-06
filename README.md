@@ -1,3 +1,3 @@
-# WELN
+# WELN: Siamese Network-based Framework for Geo-localization in Extreme Weather
 
-Code is being organized
+Solution for ACMMM24 Multimedia Drone Satellite Matching Challenge In Multiple-environment
