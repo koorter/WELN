@@ -1,0 +1,16 @@
+LPN: 0
+batch_size: 8
+block: 4
+classes: 701
+dataset_path: /media/sues/daa8aa38-6c2b-4fb6-a66f-327e4fc2f6a6/dataset/university_plus/train
+drop_rate: 0.4
+fp16: 0
+image_size: 448
+lr: 0.0005
+model: eva02mim
+name: eva02_L_1652_2024-06-18-21:49:21
+num_epochs: 80
+query: drone
+share_weight: true
+weight_decay: 0.0001
+weight_save_path: weights
